@@ -178,6 +178,10 @@ if (!_2) { continue };_0.push(ahe)};return _0})())}vq(ahg,ahh,ahi){return _o(AJ.
   margin: 4px;
 }
 
+.a button {
+  margin: 4px;
+}
+
 .b svg {
   width: 24px;
   height: 24px;
