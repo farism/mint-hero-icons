@@ -100,7 +100,7 @@ File.write("source/IconsOutline.mint", generate_module_content(icons, "24/outlin
 File.write("source/IconsMini.mint", generate_module_content(icons, "20/solid", "HeroIconsMini"))
 
 # write example icon files
-# Dir.mkdir_p("example/source")
-# File.write("example/source/HeroIconsDemo.mint", generate_demo_component(icons, "HeroIcons"))
-# File.write("example/source/HeroIconsOutlineDemo.mint", generate_demo_component(icons, "HeroIconsOutline"))
-# File.write("example/source/HeroIconsMiniDemo.mint", generate_demo_component(icons, "HeroIconsMini"))
+Dir.mkdir_p("example/source")
+File.write("example/source/HeroIconsDemo.mint", generate_demo_component(icons, "HeroIcons"))
+File.write("example/source/HeroIconsOutlineDemo.mint", generate_demo_component(icons, "HeroIconsOutline"))
+File.write("example/source/HeroIconsMiniDemo.mint", generate_demo_component(icons, "HeroIconsMini"))
