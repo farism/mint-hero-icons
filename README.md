@@ -1,11 +1,3 @@
-# Mint Tabler Icons
+# Mint Hero Icons
 
-A package to use [tabler-icons](https://github.com/tabler/tabler-icons) in pure Mint.
-
-## Versioning
-
-The package version will match the version of tabler-icons.
-
-## Stroke Width
-
-All stroke width can be controlled using the `--tabler-stroke-width` CSS variable.
+[Mint lang](https://mint-lang.com) package to use [hero-icons](https://github.com/tailwindlabs/heroicons).
