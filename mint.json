@@ -1,0 +1,7 @@
+{
+  "name": "mint-hero-icons",
+  "mint-version": "0.18.0 <= v < 1.0.0",
+  "source-directories": [
+    "source"
+  ]
+}
