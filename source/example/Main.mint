@@ -25,6 +25,10 @@ component Main {
     svg {
       margin: 4px;
     }
+
+    button {
+      margin: 4px;
+    }
   }
 
   style size24 {
